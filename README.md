@@ -1,13 +1,14 @@
-👉 Scroll-Based Animations: Dynamic animations triggered by scrolling for a more engaging user experience.
 
-👉 Clip Path Shaped Animations: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
+👉 Beautiful Sections: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
-👉 3D Hover Effects: Interactive 3D transformations that respond to user interactions for a modern feel.
+👉 Parallax Animations: Engaging effects triggered by mouse movement and scrolling
 
-👉 Video Transitions: Seamlessly integrated video elements to enhance storytelling and flow.
+👉 Complex UI Geometry: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
 
-👉 Smooth UI/UX: Polished interfaces with buttery-smooth interactions for an intuitive user journey.
+👉 Latest UI Trends: Incorporates modern design elements such as bento grids.
 
-👉 Completely Responsive: Flawless adaptation across all devices, ensuring a consistent experience.
+👉 Cool Gradients: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+
+👉 Responsive: Ensures seamless functionality and aesthetics across all devices
 
 and many more, including code architecture and reusability
